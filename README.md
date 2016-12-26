@@ -1,4 +1,4 @@
-# [NoEye](http://www.jianshu.com)
+# [NoEye](http://eye.itwzw.cn)
 记录DNS记录和HTTP请求
 
 >碰上盲注 盲xxe 无回显命令执行再也不用怕了
