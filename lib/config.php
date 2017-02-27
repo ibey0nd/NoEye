@@ -3,7 +3,7 @@
         'database_name' => 'eye',
         'server' => '127.0.0.1',
         'username' => 'root',
-        'password' => 'wzw123',
+        'password' => 'root',
         'charset' => 'utf8',
     );
     $conn = mysql_connect($dbconfig['server'],$dbconfig['username'],$dbconfig['password']) or die('MySQL ERROR');
