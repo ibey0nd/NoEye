@@ -9,4 +9,3 @@
     $conn = mysql_connect($dbconfig['server'],$dbconfig['username'],$dbconfig['password']) or die('MySQL ERROR');
     mysql_select_db($dbconfig['database_name'],$conn);
     mysql_query("SET NAMES 'utf8'");
-  
